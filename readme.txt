@@ -11,3 +11,7 @@ create a new branch is quick AND simple
 create a new branch is quick and simple
 
 add merge
+
+git merge
+
+git is a free software...
